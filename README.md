@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# vite-hello-world ITA 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+questo repo è la prima volta in cui mi sono approciato all'utilizzo di Vite, in questo utilizzando Vue come framework per Javascript.
+In questo esercizio ho iniziato a prendere dimestichezza con le prime funzionalità di Vite, come la creazione dello scaffolding tramite comandi da terminale.
 
-## Recommended IDE Setup
+# vite-hello-world ENG
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+This repo is the first time I approached Vite,using Vue as js framework.
+In this exercise, I started to familiarize myself with the initial features of Vite, such as scaffolding creation through terminal commands.
